@@ -10,10 +10,15 @@ Libraries: NumPy, Pandas, Seaborn, Matplotlib
 
 #Key Questions Addressed
 -Popular Restaurant Types: Identified which types of restaurants are most frequently ordered from by customers.
+
 -Vote Counts: Determined the number of votes each restaurant type has received.
+
 -Rating Distribution: Analyzed the most common ratings given to restaurants.
+
 -Online Spending: Calculated the average spending of couples who order food online.
+
 -Order Mode Ratings: Compared ratings between online and offline orders to find which mode is preferred.
+
 -Offline Orders: Identified which restaurant types received more offline orders to suggest potential offers.
 
 #Insights
