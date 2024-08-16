@@ -4,6 +4,7 @@
 This project explores Zomato's dataset to analyze customer behavior and restaurant performance using Python. The goal is to derive insights that can inform business strategies and improve customer engagement.
 
 #Tools & Technologies
+
 Python
 
 Jupyter Notebook
@@ -12,6 +13,7 @@ Libraries:
 NumPy, Pandas, Seaborn, Matplotlib
 
 #Key Questions Addressed
+
 -Popular Restaurant Types: Identified which types of restaurants are most frequently ordered from by customers.
 
 -Vote Counts: Determined the number of votes each restaurant type has received.
@@ -25,6 +27,7 @@ NumPy, Pandas, Seaborn, Matplotlib
 -Offline Orders: Identified which restaurant types received more offline orders to suggest potential offers.
 
 #Insights
+
 -Customer Preferences: Provided a detailed view of customer preferences regarding restaurant types and ordering modes.
 
 -Business Strategy: Offered actionable insights for optimizing restaurant offerings and creating targeted promotions based on customer behavior.
