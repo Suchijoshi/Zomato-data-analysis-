@@ -5,12 +5,12 @@ This project explores Zomato's dataset to analyze customer behavior and restaura
 
 #Tools & Technologies
 
-Python
+-Python
 
-Jupyter Notebook
+-Jupyter Notebook
 
-Libraries: 
-NumPy, Pandas, Seaborn, Matplotlib
+-Libraries: 
+ NumPy, Pandas, Seaborn, Matplotlib
 
 #Key Questions Addressed
 
